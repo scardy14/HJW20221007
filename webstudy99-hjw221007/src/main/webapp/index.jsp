@@ -10,6 +10,7 @@
 <body>
 <div class = "container pt-3">
 	main1 ui 작업
+	main2 ui 작업
 </div>
 </body>
 </html>
