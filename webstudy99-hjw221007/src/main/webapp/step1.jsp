@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class = "container pt-3">
-	main1 ui 작업
+	step1이야
 </div>
 </body>
 </html>
