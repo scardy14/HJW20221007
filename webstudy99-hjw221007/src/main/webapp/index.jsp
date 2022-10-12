@@ -11,7 +11,7 @@
 <div class = "container pt-3">
 	main1
 	ui 작업 ver.1
-	ui 작업 ver2
+	ui 작업 ver.2
 	ui 작업 ver3
 </div>
 </body>
