@@ -12,7 +12,7 @@
 	main1
 	ui 작업 ver.1
 	ui 작업 ver.2
-	ui 작업 ver3
+	ui 작업 ver.3
 </div>
 </body>
 </html>
